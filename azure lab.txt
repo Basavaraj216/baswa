@@ -1,0 +1,25 @@
+1.create a resource group and azure vnet. 
+2.create multiple virtual networks inside the single resource group. 
+3.delete the resource group.
+4.delete the virtual network.
+5.create a storage account in azure.
+6.upload one file in azure storage account.
+7.create a virtual machine(window) and perform the below task.
+a.restart
+b.stop
+c.start
+d.customize the dash board 
+e.Download the CSV file
+f.Tag the virtual machine
+g.Delete the VM
+h.reset the password
+
+8.create a virtual machine(LINUX) and perform the below task.
+ a.restart
+ b.stop
+ c.start
+ d.customize the dash board 
+ e.Download the CSV file
+ f.Tag the virtual machine
+ g.Delete the VM
+ h.reset the password
